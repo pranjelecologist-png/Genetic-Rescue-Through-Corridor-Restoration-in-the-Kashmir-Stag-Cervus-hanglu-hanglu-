@@ -1,2 +1,2 @@
 # Genetic-Rescue-Through-Corridor-Restoration-in-the-Kashmir-Stag-Cervus-hanglu-hanglu-
-Conservation proposal using genetic analysis and GIS based corridor modelling to address inbreeding and habitat fragmentation in the critically endangered Kashmir stag.
+This project focuses on genetic rescue of the endangered Kashmir stag by identifying and restoring natural habitat corridors. Using non invasive genetic sampling, GIS mapping, and population modelling, the study aims to reduce inbreeding depression, improve gene flow, and support long term population recovery in fragmented Himalayan landscapes.
